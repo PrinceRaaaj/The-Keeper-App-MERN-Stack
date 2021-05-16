@@ -1,0 +1,10 @@
+.header {
+    width: 100%;
+    display: flex;
+    padding: 0.75rem;
+    background: black;
+    color: rgb(82, 171, 240);
+    justify-content: center;
+    font-family: 'Texturina', serif;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 10px;
+}
